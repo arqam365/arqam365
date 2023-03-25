@@ -8,6 +8,3 @@
 </a>
 <body/>
 <html/>
-- 🔭 I’m currently working on TrackHub
-- 🌱 I’m currently learning Android Development
-- 📫 How to reach me: arqamahmad365.au@gmail.com
