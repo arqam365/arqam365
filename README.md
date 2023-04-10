@@ -8,7 +8,7 @@
 ###
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arqam365&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ###
-[![trophy](https://github-profile-trophy.vercel.app/?username=arqam365&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arqam365&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="80" height="80"/>&nbsp;
