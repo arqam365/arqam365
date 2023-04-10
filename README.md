@@ -2,11 +2,13 @@
 <h1 align=center>Hi, there 👋<h1>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arqam365&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arqam365&theme=vision-friendly-dark)](https://git.io/streak-stats)
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqam365&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ###
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=arqam365&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+###
+[![trophy](https://github-profile-trophy.vercel.app/?username=arqam365&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
   
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="80" height="80"/>&nbsp;
