@@ -10,7 +10,6 @@
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=arqam365&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ###
-![Snake animation](https://github.com/arqam365/arqam365/blob/output/github-contribution-grid-snake.svg)
   
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="80" height="80"/>&nbsp;
