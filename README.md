@@ -10,11 +10,10 @@
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=arqam365&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ###
-  
+### Languages :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="80" height="80"/>&nbsp;
 </div>
-  
   
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=arqam365&label=Profile%20Views&color=8&icon=5&pretty=false" />
