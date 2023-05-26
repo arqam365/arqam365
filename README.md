@@ -1,5 +1,5 @@
 ![2000_600px](https://user-images.githubusercontent.com/62327688/230877301-70600165-5aba-4091-998b-c76af3cf0b27.gif)
-![arqam ahmad siddiqui](https://github.com/arqam365/arqam365/assets/62327688/aae9d4df-25e3-4fee-bb18-dd66a37a549a)
+
 
 <h1 align=center>Hi, there 👋<h1>
 
