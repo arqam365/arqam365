@@ -21,4 +21,4 @@
   <img src="https://visitcount.itsvg.in/api?id=arqam365&label=Profile%20Views&color=8&icon=5&pretty=false" />
 </a>
 
-![Snake animation](https://github.com/thepiyushmalhotra/arqam365a/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arqam365/arqam365a/blob/output/github-contribution-grid-snake.svg)
