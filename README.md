@@ -17,8 +17,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="80" height="80"/>&nbsp;
 </div>
   
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=arqam365&label=Profile%20Views&color=8&icon=5&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=arqam365&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ![Snake animation](https://github.com/arqam365/arqam365a/blob/output/github-contribution-grid-snake.svg)
