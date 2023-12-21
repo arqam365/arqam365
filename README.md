@@ -18,5 +18,3 @@
 </div>
   
 [![](https://visitcount.itsvg.in/api?id=arqam365&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-![Snake animation](https://github.com/arqam365/arqam365a/blob/output/github-contribution-grid-snake.svg)
