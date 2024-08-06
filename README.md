@@ -90,7 +90,7 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 ![](https://github-contributor-stats.vercel.app/api?username=arqam365&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📫 Contact Me
-- **Email**: [your.email@example.com](mailto:arqamahmad365.au@gmail.com)
+- **Email**: [arqamhmad365.au@gmail.com](mailto:arqamahmad365.au@gmail.com)
 - **LinkedIn**: [Arqam Ahmad Siddiqui](https://linkedin.com/in/arqam365)
 
 ---
