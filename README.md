@@ -81,7 +81,7 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 ![](https://github-profile-trophy.vercel.app/?username=arqam365&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
-[![Arqam's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=arqam365&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arqam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arqam365&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
