@@ -15,7 +15,7 @@
 
 ## 🚀 Projects
 - **[Adventure Buddy](https://theadventurebuddy.in)**: An website designed to [An Adventure Website]. 
-- **[Next Level Programmers](https://github.com/orgs/Next-Level-Programmers)**: My venture focused on [Building Software and Collaborating].
+- **[Next Level Programmers](https://github.com/Next-Level-Programmers)**: My venture focused on [Building Software and Collaborating].
 
 Feel free to explore these and more on my [GitHub profile](https://github.com/arqam365)!
 
