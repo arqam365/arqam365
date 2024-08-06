@@ -14,8 +14,8 @@
 ⚡ Fun fact: I aspire to contribute to **open-source projects** that create a positive impact in the world.
 
 ## 🚀 Projects
-- **[Adventure Buddy](#)**: An website designed to [An Adventure Website]. 
-- **[Next Level Programmers](#)**: My venture focused on [Building Software and Collaborating].
+- **[Adventure Buddy](https://theadventurebuddy.in)**: An website designed to [An Adventure Website]. 
+- **[Next Level Programmers](https://github.com/orgs/Next-Level-Programmers)**: My venture focused on [Building Software and Collaborating].
 
 Feel free to explore these and more on my [GitHub profile](https://github.com/arqam365)!
 
