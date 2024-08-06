@@ -6,7 +6,7 @@
 </p>
 
 # 💫 About Me:
-🔭 Currently working on **Adventure Buddy**, a project aimed at [briefly describe its purpose].<br>
+🔭 Currently working on **Adventure Buddy**, a project aimed at [An Adventure Website].<br>
 👯 Looking to collaborate on **Mobile Apps** and interesting tech challenges.<br>
 🤝 Seeking help with **Kotlin** and **MongoDB**.<br>
 🌱 Currently learning **Backend Development** and diving deep into **Cybersecurity**.<br>
@@ -14,8 +14,8 @@
 ⚡ Fun fact: I aspire to contribute to **open-source projects** that create a positive impact in the world.
 
 ## 🚀 Projects
-- **[Adventure Buddy](#)**: An app designed to [briefly describe the project]. 
-- **[Next Level Programmers](#)**: My venture focused on [briefly describe the focus of the company].
+- **[Adventure Buddy](#)**: An website designed to [An Adventure Website]. 
+- **[Next Level Programmers](#)**: My venture focused on [Building Software and Collaborating].
 
 Feel free to explore these and more on my [GitHub profile](https://github.com/arqam365)!
 
