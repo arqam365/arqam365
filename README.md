@@ -77,6 +77,7 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=@arqam365&theme=merko&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🏆 GitHub Trophies
