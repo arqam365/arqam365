@@ -80,7 +80,7 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arqam365&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arqam365&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Contribution Graph
 [![Arqam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arqam365&bg_color=0b0f0b&color=aed53a&line=aed53a&point=1eff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
