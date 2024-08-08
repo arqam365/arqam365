@@ -1,40 +1,43 @@
 ![2000_600px](https://user-images.githubusercontent.com/62327688/230877301-70600165-5aba-4091-998b-c76af3cf0b27.gif)
 
 <h1 align="center">Hello there, I'm Arqam! 👋</h1>
+
 <p align="center">
   A passionate developer who loves to explore new technologies and work on innovative projects. 🚀
 </p>
 
 # 💫 About Me:
-🔭 Currently working on **Adventure Buddy**, a project aimed at [An Adventure Website].<br>
-👯 Looking to collaborate on **Mobile Apps** and interesting tech challenges.<br>
-🤝 Seeking help with **Kotlin** and **MongoDB**.<br>
-🌱 Currently learning **Backend Development** and diving deep into **Cybersecurity**.<br>
-💬 Feel free to ask me about **Android** development or any tech-related queries.<br>
-⚡ Fun fact: I aspire to contribute to **open-source projects** that create a positive impact in the world.
+- 🔭 Currently working on **Adventure Buddy**, a project aimed at [An Adventure Website].
+- 👯 Looking to collaborate on **Mobile Apps** and interesting tech challenges.
+- 🤝 Seeking help with **Kotlin** and **MongoDB**.
+- 🌱 Currently learning **Backend Development** and diving deep into **Cybersecurity**.
+- 💬 Feel free to ask me about **Android** development or any tech-related queries.
+- ⚡ Fun fact: I aspire to contribute to **open-source projects** that create a positive impact in the world.
 
 ## 🚀 Projects
-- **[Adventure Buddy](https://theadventurebuddy.in)**: An website designed to [An Adventure Website]. 
+- **[Adventure Buddy](https://theadventurebuddy.in)**: A website designed to [An Adventure Website]. 
 - **[Next Level Programmers](https://github.com/Next-Level-Programmers)**: My venture focused on [Building Software and Collaborating].
 
 Feel free to explore these and more on my [GitHub profile](https://github.com/arqam365)!
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/arqam365) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/arqam365) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arqam365) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arqam365) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arqam365) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arqam365) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/arqam365) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Arqam-Ahmad-9) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/arqam365) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/arqam365](https://stackoverflow.com/users/15816773/arqam-ahmad-siddiqui)) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/arqam365) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arqam365) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arqam365) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arqam365) 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@arqam365) 
+<p align="center">
+  <a href="https://behance.net/arqam365"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"></a> 
+  <a href="https://discord.gg/arqam365"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a> 
+  <a href="https://facebook.com/arqam365"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a> 
+  <a href="https://instagram.com/arqam365"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a> 
+  <a href="https://linkedin.com/in/arqam365"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> 
+  <a href="https://medium.com/@arqam365"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"></a> 
+  <a href="https://pinterest.com/arqam365"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a> 
+  <a href="https://quora.com/profile/Arqam-Ahmad-9"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white"></a> 
+  <a href="https://reddit.com/user/arqam365"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"></a> 
+  <a href="https://stackoverflow.com/users/15816773/arqam-ahmad-siddiqui"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"></a> 
+  <a href="https://twitch.tv/arqam365"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"></a> 
+  <a href="https://x.com/arqam365"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a> 
+  <a href="https://youtube.com/@arqam365"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a> 
+  <a href="https://codepen.io/arqam365"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a> 
+  <a href="https://mastodon.social/@arqam365"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a> 
+</p>
 
 ## 💻 Tech Stack:
 ### 🌟 Most Proficient
@@ -73,29 +76,37 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 ![Azure](https://img.shields.io/badge/Azure-%23008AD7.svg?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=@arqam365&theme=merko&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@arqam365&theme=merko&hide_border=false"/></a><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arqam365&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arqam365&theme=matrix&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
 
 ## 📈 Contribution Graph
-[![Arqam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arqam365&bg_color=0b0f0b&color=aed53a&line=aed53a&point=1eff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=arqam365&bg_color=0b0f0b&color=aed53a&line=aed53a&point=1eff00&area=true&hide_border=true"/></a>
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arqam365&limit=5&theme=merko&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=arqam365&limit=5&theme=merko&combine_all_yearly_contributions=true"/>
+</p>
 
 ## 📫 Contact Me
 - **Email**: [arqamhmad365.au@gmail.com](mailto:arqamahmad365.au@gmail.com)
 - **LinkedIn**: [Arqam Ahmad Siddiqui](https://linkedin.com/in/arqam365)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=arqam365&icon=5&color=5)](https://visitcount.itsvg.in)
