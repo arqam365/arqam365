@@ -76,31 +76,31 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 ![Azure](https://img.shields.io/badge/Azure-%23008AD7.svg?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## 📊 GitHub Stats:
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=arqam365&theme=merko&hide_border=false"/></a><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&nocache=1"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&nocache=1"/><br/>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=arqam365&theme=merko&hide_border=false&nocache=1"/></a><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&nocache=1"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&nocache=1"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&nocache=1"/><br/>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arqam365&theme=matrix&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arqam365&theme=matrix&no-frame=false&no-bg=false&margin-w=4&nocache=1"/>
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=arqam365&bg_color=0b0f0b&color=aed53a&line=aed53a&point=1eff00&area=true&hide_border=true"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=arqam365&bg_color=0b0f0b&color=aed53a&line=aed53a&point=1eff00&area=true&hide_border=true&nocache=1"/></a>
 </p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&nocache=1"/>
 </p>
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=arqam365&limit=5&theme=merko&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=arqam365&limit=5&theme=merko&combine_all_yearly_contributions=true&nocache=1"/>
 </p>
 
 ## 📫 Contact Me
