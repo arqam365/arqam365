@@ -46,6 +46,7 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 
 ### 🚀 Currently Exploring
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-%2300C3F2.svg?style=flat&logo=ktor&logoColor=white)
 ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-%2300C3F2.svg?style=flat&logo=kotlin&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
