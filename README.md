@@ -40,6 +40,9 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 </p>
 
 ## 💻 Tech Stack:
+### 🎉 Total Coding Time:
+[![Total Coding Time](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78.svg)](https://wakatime.com/@d4c514ab-62be-4780-9d89-ff1737a25a78)
+
 ### 🌟 Most Proficient
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%2300C3F2.svg?style=flat&logo=jetpack-compose&logoColor=white)
