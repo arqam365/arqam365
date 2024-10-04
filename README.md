@@ -12,7 +12,7 @@
 - 🤝 Seeking help with **Kotlin** and **MongoDB**.
 - 🌱 Currently learning **Backend Development** and diving deep into **Cybersecurity**.
 - 💬 Feel free to ask me about **Android** development or any tech-related queries.
-- ⚡ Fun fact: I aspire to contribute to **open-source projects** that create a positive impact in the world.
+- ⚡ Fun fact: I aspire to contribute to **open-source projects** that positively impact the world.
 
 ## 🚀 Projects
 - **[Adventure Buddy](https://theadventurebuddy.in)**: A website designed to [An Adventure Website]. 
@@ -42,6 +42,10 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 ## 💻 Tech Stack:
 ### 🎉 Total Coding Time:
 [![Total Coding Time](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78.svg)](https://wakatime.com/@d4c514ab-62be-4780-9d89-ff1737a25a78)
+### 🎉 Total Coding Time for Merakaam Project:
+[![wakatime](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78/project/64f8aace-8a83-42ea-80a3-275205795d90.svg)](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78/project/64f8aace-8a83-42ea-80a3-275205795d90)
+### 🎉 Total Coding Time for Suraksha Kawach Project:
+[![wakatime](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78/project/de3f7220-9b6b-429c-af95-e90bdf855620.svg)](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78/project/de3f7220-9b6b-429c-af95-e90bdf855620)
 
 ### 🌟 Most Proficient
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
