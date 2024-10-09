@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-- 🔭 Currently working on **Adventure Buddy**, a project aimed at [An Adventure Website].
+- 🔭 Currently working on **Panthar InfoHub**, a project aimed at [A mobile application for safety and health tracking].
 - 👯 Looking to collaborate on **Mobile Apps** and interesting tech challenges.
 - 🤝 Seeking help with **Kotlin** and **MongoDB**.
 - 🌱 Currently learning **Backend Development** and diving deep into **Cybersecurity**.
