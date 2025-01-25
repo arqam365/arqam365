@@ -17,7 +17,7 @@
 ## 🚀 Projects
 - **[Adventure Buddy](https://theadventurebuddy.in)**: A website designed to [An Adventure Website]. 
 - **[Next Level Programmers](https://github.com/Next-Level-Programmers)**: My venture focused on [Building Software and Collaborating].
-- **[Suraksha Kaawach](https://suraksha.pantharinfohub.com)**: Website and Mobile app for [Personal Security]
+- **[Suraksha Kawach](https://suraksha.pantharinfohub.com)**: Website and Mobile app for [Personal Security]
 
 Feel free to explore these and more on my [GitHub profile](https://github.com/arqam365)!
 
