@@ -44,6 +44,8 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 ## Tech Stack:
 ### Total Coding Time:
 [![Total Coding Time](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78.svg)](https://wakatime.com/@d4c514ab-62be-4780-9d89-ff1737a25a78)
+### Total Coding Time for Evolwe Ring Project:
+[![wakatime](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78/project/11a7160d-f056-41bd-b90f-d5440c4f2351.svg)](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78/project/11a7160d-f056-41bd-b90f-d5440c4f2351)
 ### Total Coding Time for Merakaam Project:
 [![wakatime](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78/project/64f8aace-8a83-42ea-80a3-275205795d90.svg)](https://wakatime.com/badge/user/d4c514ab-62be-4780-9d89-ff1737a25a78/project/64f8aace-8a83-42ea-80a3-275205795d90)
 ### Total Coding Time for Suraksha Kawach Project:
