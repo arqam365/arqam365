@@ -90,9 +90,9 @@ Feel free to explore these and more on my [GitHub profile](https://github.com/ar
 ## GitHub Stats:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&nocache=1"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&nocache=1"/><br/>
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=arqam365&theme=merko&hide_border=false&nocache=1"/></a><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&nocache=1"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&nocache=1"/><br/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=arqam365&layout=compact&langs_count=11&theme=highcontrast)](https://wakatime.com/@arqam365)<br/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=arqam365&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=arqam365&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=highcontrast)  <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&nocache=1"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arqam365&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&nocache=1"/><br/>
 
 ## GitHub Trophies
