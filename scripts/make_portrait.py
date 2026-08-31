@@ -26,7 +26,14 @@ The grid assumes a monospace advance width of 0.600 em. Rather than inline a
 subset font to guarantee that, every row is drawn with textLength +
 lengthAdjust="spacingAndGlyphs", which pins each row to the same width in any
 renderer - a viewer whose default monospace is narrower (Consolas is ~0.55)
-still sees square columns.
+still sees square columns. That only holds if every row is the same number of
+characters, so rows keep their trailing blanks rather than being stripped.
+
+Alignment rides on the leading blanks in each row, so the text carries
+xml:space="preserve". CSS white-space:pre is SVG 2, and browsers ignore it on
+an SVG loaded through <img> - they collapse the runs of spaces, and each row
+then gets stretched from wherever its first glyph landed to the full
+textLength, which shears the portrait into a ragged left edge.
 
 Motion is SMIL, because GitHub strips <script> from READMEs. The clip rect
 carries its full width as a plain attribute and SMIL animates it from 0, so a
@@ -132,12 +139,15 @@ def to_rows(img, cols, matte=None):
             " " if cover is not None and cover[y, x] < COVER_MIN
             else RAMP[::-1][px[x, y] * (len(RAMP) - 1) // 255]
             for x in range(cols))
-        out.append(line.rstrip())
+        out.append(line)
     # Trim fully blank rows top and bottom so the SVG has no dead margin.
+    # Rows keep their trailing blanks: every row has to stay exactly `cols`
+    # characters wide or the single textLength below stretches the short ones.
     while out and not out[0].strip():
         out.pop(0)
     while out and not out[-1].strip():
         out.pop()
+    assert all(len(r) == cols for r in out)
     return out
 
 
@@ -152,7 +162,8 @@ def to_svg(rows, cols, alt):
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" '
-        f'viewBox="0 0 {w} {h}" role="img" aria-label="{esc(alt)}">',
+        f'viewBox="0 0 {w} {h}" xml:space="preserve" role="img" '
+        f'aria-label="{esc(alt)}">',
         f"  <title>{esc(alt)}</title>",
         "  <style>",
         f"    text {{ font-family: {FAMILY}; font-size: {FONT_SIZE}px; "
@@ -181,8 +192,9 @@ def to_svg(rows, cols, alt):
     for i, row in enumerate(rows):
         y = round(i * LINE_H + FONT_SIZE, 2)
         parts.append(
-            f'  <text x="0" y="{y}" clip-path="url(#w{i})" '
-            f'textLength="{w}" lengthAdjust="spacingAndGlyphs">{esc(row)}</text>'
+            f'  <text xml:space="preserve" x="0" y="{y}" '
+            f'clip-path="url(#w{i})" textLength="{w}" '
+            f'lengthAdjust="spacingAndGlyphs">{esc(row)}</text>'
         )
 
     parts.append(f"  <!-- prints once in {total}s, then holds -->")
