@@ -71,7 +71,8 @@ RAMP = [" ", ":", "+", "#", "@"]      # steps of the portrait's own ramp
 MON = ["jan", "feb", "mar", "apr", "may", "jun",
        "jul", "aug", "sep", "oct", "nov", "dec"]
 
-HEADINGS = ["about", "stack", "work", "stats", "about this page"]
+HEADINGS = ["about", "role", "stack", "work", "shipped",
+            "principles", "stats", "contact", "about this page"]
 
 
 @functools.lru_cache(maxsize=None)
