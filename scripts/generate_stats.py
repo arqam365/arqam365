@@ -114,10 +114,14 @@ def shell(height, body, weights=(400,)):
 
 
 def wipe(i, w, h, y=0, x=0, dur=REVEAL, delay=0.0):
-    """Left-to-right clipPath reveal. The rect carries its finished width, so
-    a renderer that ignores SMIL shows the drawing rather than nothing."""
+    """Left-to-right clipPath reveal.
+
+    The rect starts closed. Carrying the finished width as the base attribute
+    would leave anything not yet animating fully drawn, so the graphic appears
+    complete and then blanks and redraws.
+    """
     return (f'<clipPath id="w{i}"><rect x="{x}" y="{y}" height="{h}" '
-            f'width="{w}"><animate attributeName="width" from="0" to="{w}" '
+            f'width="0"><animate attributeName="width" from="0" to="{w}" '
             f'begin="{delay}s" dur="{dur}s" fill="freeze"/></rect></clipPath>')
 
 

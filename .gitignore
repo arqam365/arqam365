@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# needs a token with `workflow` scope to push; see PR #5
+.github/workflows/stats.yml
