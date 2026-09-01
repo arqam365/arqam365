@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/portrait.svg" width="580" alt="ASCII portrait of Arqam Ahmad Siddiqui" />
+<img src="assets/portrait.svg" width="460" alt="ASCII portrait of Arqam Ahmad Siddiqui" />
 
 <img src="assets/header.svg" width="100%" alt="Arqam Ahmad Siddiqui — Founder and CEO at Revzion, Cross-Platform Systems Architect" />
 
