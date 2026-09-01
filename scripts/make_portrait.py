@@ -33,10 +33,12 @@ only mechanism, and it keeps the page free of third-party requests.
 
 Motion is SMIL, because GitHub strips <script> from READMEs: each row is
 revealed by a clipPath wipe with a cursor block riding its edge, staggered top
-to bottom and frozen at the end, so it prints once and stops. The clip rect
-carries its finished width as a plain attribute and SMIL animates it up from
-zero, so a renderer that ignores SMIL shows the completed portrait rather than
-an empty box.
+to bottom and frozen at the end, so it prints once and stops. The clip rects
+start closed, which is what a staggered reveal requires - give them their
+finished width as the base attribute and every row that has not begun yet
+draws in full, so the portrait appears complete and then blanks and retypes.
+The cost is that a renderer ignoring SMIL shows nothing; browsers, which is
+where GitHub renders this, all run it.
 """
 import argparse
 import base64
@@ -138,10 +140,11 @@ def to_svg(rows, cols, alt):
         end = f"{(i + 1) * ROW_DELAY:.2f}s"
         w = max(len(line), 1) * CHAR_W
 
-        # width carries the finished value, so a renderer with no SMIL draws
-        # the complete row instead of an empty one.
+        # The rect starts closed. Carrying the finished width here instead
+        # would leave every row that has not begun animating fully drawn, so
+        # the whole portrait shows at once and then blanks and retypes.
         p.append(f'<clipPath id="c{i}"><rect x="{PAD}" y="{y}" '
-                 f'height="{LINE_H}" width="{w:.1f}">'
+                 f'height="{LINE_H}" width="0">'
                  f'<animate attributeName="width" from="0" to="{w:.1f}" '
                  f'begin="{begin}" dur="{ROW_DELAY}s" fill="freeze"/>'
                  f"</rect></clipPath>")
