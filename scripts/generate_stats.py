@@ -148,7 +148,10 @@ def fetch(login, token):
         payload = json.load(r)
     if "errors" in payload:
         raise SystemExit(f"GraphQL: {payload['errors']}")
-    return payload["data"]["user"]
+    user = payload["data"]["user"]
+    if not user:
+        raise SystemExit(f"no user {login!r}, or this token cannot see them")
+    return user
 
 
 def days_of(user):
@@ -356,6 +359,12 @@ def main():
 
     user = fetch(login, token)
     days = days_of(user)
+    # A token without sight of the contribution calendar gets an empty one back
+    # rather than an error. Writing that out would blank the page, so stop and
+    # leave the last good graphics in place instead.
+    if not any(d["contributionCount"] for d in days):
+        raise SystemExit(f"no contributions returned for {login}; "
+                         f"refusing to overwrite the graphics")
     by_bytes, by_repo = language_totals(user)
 
     files = {"stats.svg": draw_stats(user, days),
