@@ -98,19 +98,26 @@ def esc(s):
             .replace(">", "&gt;"))
 
 
+def paint(scheme):
+    """The ink classes for one colour scheme.
+
+    `ln` has to carry its own fill:none. A CSS rule outranks a presentation
+    attribute, so a stroked element also wearing a fill class gets filled no
+    matter what its fill="none" says - which turned the sparkline into a slab.
+    """
+    return ("".join(f".{k}{{fill:{v}}}" for k, v in
+                    dict(d=scheme["data"], e=scheme["emph"],
+                         m=scheme["dim"], r=scheme["rule"]).items())
+            + f'.ln{{fill:none;stroke:{scheme["data"]}}}')
+
+
 def shell(height, body, weights=(400,)):
     """Common wrapper: transparent, ink that follows the colour scheme."""
-    css = "".join(f".{k}{{fill:{v}}}" for k, v in
-                  dict(d=LIGHT["data"], e=LIGHT["emph"],
-                       m=LIGHT["dim"], r=LIGHT["rule"]).items())
-    dark = "".join(f".{k}{{fill:{v}}}" for k, v in
-                   dict(d=DARK["data"], e=DARK["emph"],
-                        m=DARK["dim"], r=DARK["rule"]).items())
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" '
             f'height="{height}" viewBox="0 0 {WIDTH} {height}" '
             f'font-family="{MONO}">'
-            f"<style>{fonts(*weights)}{css}"
-            f"@media(prefers-color-scheme:dark){{{dark}}}</style>"
+            f"<style>{fonts(*weights)}{paint(LIGHT)}"
+            f"@media(prefers-color-scheme:dark){{{paint(DARK)}}}</style>"
             f"{body}</svg>")
 
 
@@ -239,8 +246,7 @@ def draw_stats(user, days):
         f'<text x="{WIDTH - LEFT}" y="78" class="m" font-size="10" '
         f'text-anchor="end">best week</text>'
         f'<polygon points="{area}" class="d" opacity="0.18"/>'
-        f'<polyline points="{line}" fill="none" stroke="currentColor" '
-        f'class="d" stroke-width="1.4" style="stroke:{LIGHT["data"]}"/>'
+        f'<polyline points="{line}" class="ln" stroke-width="1.4"/>'
         f'<circle cx="{pts[-1][0]:.1f}" cy="{pts[-1][1]:.1f}" r="2.6" '
         f'class="e"/>'
         f"</g>")
